@@ -1,0 +1,42 @@
+{
+  "name": "standup",
+  "version": "0.1.0",
+  "description": "A simple app that let helps organize and give structure to team standup ceremony",
+  "private": true,
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMichaelOwolabi/standup.git"
+  },
+  "author": "Michael Owolabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iMichaelOwolabi/standup/issues"
+  },
+  "homepage": "https://github.com/iMichaelOwolabi/standup#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

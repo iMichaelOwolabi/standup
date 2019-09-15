@@ -1,2 +1,2 @@
 # standup
-A simple app that let helps organize and give structure to team standup ceremony
+A simple app that help organize and give structure to agile team standup ceremony
