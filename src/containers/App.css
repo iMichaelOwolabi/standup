@@ -8,3 +8,11 @@
   padding: 5px;
   text-align: center;
 }
+
+.background-img {
+  position: fixed;
+  width: 650px;
+  right: 0;
+  top: 60px;
+  opacity: 30%;
+}

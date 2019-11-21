@@ -4,12 +4,12 @@
 }
 
 .logo {
-  position: absolute;
   font: inherit;
   font-weight: 800;
   font-size: 30px;
   text-align: left;
   margin-bottom: 10px;
+  float: left;  
 }
 
 .date {
@@ -26,16 +26,15 @@
   cursor: pointer;
   text-decoration: none;
   color: inherit;
+  border-radius: 5px;
 }
 
 .link:hover {
   color: #ffffff;
   background: #7E7C7C;
-  border-radius: 5px;
 }
 
 .link:active {
   color: #ffffff;
   background: #7E7C7C;
-  border-radius: 5px;
 }
