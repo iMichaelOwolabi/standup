@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <NavBar name="Standup" />
-        <img src={backGroundImg} alt="virtual meeting image" className="background-img" />
+        <img src={backGroundImg} alt="remote team" className="background-img" />
         <Standup />
       </div>
     );
